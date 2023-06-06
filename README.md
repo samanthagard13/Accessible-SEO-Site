@@ -8,6 +8,6 @@ This project involved making this website more user friendly and accesible by ad
 
 Information and alt information about a SEO company front page.
 
-https://samanthagard13.github.io/Week1-Challenge/
+https://samanthagard13.github.io/Accessible-SEO-Site/
 
 [Screenshot of website] (./assets/screenshot.png)
