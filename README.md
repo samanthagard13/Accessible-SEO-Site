@@ -1,4 +1,4 @@
-# Week 1 Challenge
+# Accessible SEO Site
 
 ## Description
 
