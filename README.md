@@ -10,4 +10,4 @@ Information and alt information about a SEO company front page.
 
 https://samanthagard13.github.io/Week1-Challenge/
 
-[Screenshot of website] (./assets/screenshot.png)
+![Screenshot of website](./assets/screenshot.png)
